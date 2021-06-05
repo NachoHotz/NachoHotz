@@ -10,11 +10,9 @@
     My main goal is to build apps and websites that can change the world for the better, and keep learing new tecnologies.
     </p>
     
-## 🌱 I’m currently learning ...
-Full Stack Web Development at Henry
+- 🌱 I’m currently learning Full Stack Web Development at Henry
 
-## 🔭 I’m currently working on ...
-My individual proyect for the Henry Bootcamp.
+- 🔭 I’m currently working on my individual proyect for the Henry Bootcamp.
 
 ## The current tecnologies that I know and work with are: 
 
