@@ -14,6 +14,8 @@ My main goal is to build apps and websites that can change the world for the bet
 
 - Linkedin: https://www.linkedin.com/in/juan-ignacio-hotz-1b8081211/
 
+- Twitter: https://twitter.com/NachoHotz
+
 - E-Mail: juanhotz611@gmail.com
 
 <!--
