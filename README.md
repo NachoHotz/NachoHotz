@@ -29,7 +29,6 @@ My individual proyect for the Henry Bootcamp.
 - Twitter: https://twitter.com/NachoHotz
 
 - E-Mail: juanhotz611@gmail.com
-
 <!--
 **NachoHotz/NachoHotz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
