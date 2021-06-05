@@ -1,4 +1,6 @@
-# Hi there 👋
+<h1 align=center>  
+    Hi there 👋
+  </h1>
 
 My name is Juan from Argentina, I love everything related to computers and programming.
 
