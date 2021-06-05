@@ -1,8 +1,11 @@
 # Hi there 👋
 
-My name is Juan Ignacio Hotz from Argentina, I´m a Full Stack Web Developer student at Henry, I love everything related to computers and programming.
+My name is Juan from Argentina, I´m a Full Stack Web Developer student at Henry, I love everything related to computers and programming.
 
 My main goal is to build apps and websites that can change the world for the better, and keep learing new tecnologies.
+
+## 🔭 I’m currently working on ...
+My individual proyect for the Henry Bootcamp.
 
 ## The current tecnologies that I know and work with are: 
 
