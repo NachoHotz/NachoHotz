@@ -1,14 +1,18 @@
 <h1 align=center>  
     Hi there 👋
-  </h1>
+</h1>
   
 <p align=center>  
    My name is Juan from Argentina, I love everything related to computers and programming.
-    </p>
+</p>
     
 <p align=center> 
     My main goal is to build apps and websites that can change the world for the better, and keep learing new tecnologies.
-    </p>
+</p>
+    
+<div align='center'>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NachoHotz&show_owner=true&count_private=true&show_icons=true&theme=gruvbox&repo=github-readme-       stats" />
+</div>
     
 - 🌱 I’m currently learning Full Stack Web Development at Henry
 
@@ -29,11 +33,6 @@ Vim, PostgreSQL, Postman, Git & Git Bash
 - Twitter: https://twitter.com/NachoHotz
 
 - E-Mail: juanhotz611@gmail.com
-
-<div align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NachoHotz&show_owner=true&count_private=true&show_icons=true&theme=gruvbox&repo=github-readme-stats" />
-</div>
-
 <!--
 **NachoHotz/NachoHotz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
