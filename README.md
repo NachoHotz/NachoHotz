@@ -14,17 +14,13 @@
 
 - 🔭 I’m currently working on my individual proyect for the Henry Bootcamp.
 
-## The current tecnologies that I know and work with are: 
+## Current tecnologies that I know and work with
 
-**FrontEnd:** HTML, CSS, JavaScript, ReactJS, Redux
+HTML, CSS, JavaScript, ReactJS, Redux, NodeJS, ExpressJS, SQL
 
-**BackEnd:** NodeJS, ExpressJS, PostgreSQL
+## Current everyday tools
 
-## Everyday Tools: 
-
-- Vim
-- Postman
-- Git & Git Bash
+Vim, PostgreSQL, Postman, Git & Git Bash
 
 ## 📫 How to reach me: ...
 
