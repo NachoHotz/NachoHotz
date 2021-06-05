@@ -26,7 +26,7 @@ My individual proyect for the Henry Bootcamp.
 
 - Vim
 - Postman
-- Git
+- Git & Git Bash
 
 ## 📫 How to reach me: ...
 
