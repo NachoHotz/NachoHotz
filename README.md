@@ -1,7 +1,13 @@
 <h1 align=center>  
     Hi there 👋
   </h1>
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NachoHotz&show_owner=true&count_private=true&show_icons=true&theme=gruvbox&repo=github-readme-stats" />
+</a>
 
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FNachoHotz">
+ 
 <p align=center>  
    My name is Juan from Argentina, I love everything related to computers and programming.
     </p>
@@ -29,6 +35,7 @@ Vim, PostgreSQL, Postman, Git & Git Bash
 - Twitter: https://twitter.com/NachoHotz
 
 - E-Mail: juanhotz611@gmail.com
+
 <!--
 **NachoHotz/NachoHotz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
