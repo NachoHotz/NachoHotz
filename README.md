@@ -3,7 +3,7 @@
 </h1>
   
 <p align=center>  
-   My name is Juan from Argentina, I love everything related to computers and programming.
+   My name is Juan from Argentina, and I'm a Full Stack Web Developer. I love everything related to computers and programming.
 </p>
     
 <p align=center> 
