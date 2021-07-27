@@ -12,7 +12,7 @@
     
 #### 🌱 I’m currently learning Full Stack Web Development at Henry
 
-#### 🔭 I’m currently working on my individual proyect for the Henry Bootcamp.
+#### 🔭 I’m currently working on my final proyect for the Henry Bootcamp.
 
 ## Current tecnologies that I know and work with
 
