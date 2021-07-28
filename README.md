@@ -14,7 +14,7 @@
 
 #### 🔭 I’m currently working on my final proyect for the Henry Bootcamp.
 
-## Current tecnologies that I work with
+## Current technologies that I work with
 
 HTML, CSS, JavaScript, ReactJS, Redux, NodeJS, ExpressJS, SQL, PostgreSQL
 
