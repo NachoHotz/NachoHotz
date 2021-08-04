@@ -24,7 +24,7 @@ Vim, Postman, Git & Git Bash
 
 ## 📫 How to reach me: ...
 
-- Linkedin: https://www.linkedin.com/in/juan-ignacio-hotz-1b8081211/
+- Linkedin: https://www.linkedin.com/in/juan-ignacio-hotz/
 
 - Twitter: https://twitter.com/NachoHotz
 
