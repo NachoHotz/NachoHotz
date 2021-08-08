@@ -16,11 +16,11 @@
 
 ## Current technologies that I work with
 
-HTML, CSS, JavaScript, ReactJS, Redux, NodeJS, ExpressJS, SQL, PostgreSQL
+HTML, CSS, JavaScript, ReactJS, Redux, NodeJS, ExpressJS, SQL, PostgreSQL, Git
 
 ## Current everyday tools
 
-Vim, Postman, Git & Git Bash
+Vim, Postman
 
 ## 📫 How to reach me: ...
 
