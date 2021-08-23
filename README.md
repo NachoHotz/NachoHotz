@@ -20,7 +20,7 @@ HTML, CSS, JavaScript, ReactJS, Redux, NodeJS, ExpressJS, SQL, PostgreSQL, Git
 
 ## Current everyday tools
 
-Vim, Postman
+Vim, Postman, Git Bash
 
 ## 📫 How to reach me: ...
 
