@@ -12,7 +12,7 @@
     
 #### 🌱 I’m currently learning Full Stack Web Development at Henry
 
-#### 🔭 I’m currently working on La Montañés e-commerce (Argentina craft beer business)
+#### 🔭 I’m currently working on La Montañés e-commerce (Argentinian craft beer business)
 
 ## Current technologies that I work with
 
