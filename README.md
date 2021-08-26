@@ -20,17 +20,15 @@ HTML, CSS, JavaScript, ReactJS, Redux, NodeJS, ExpressJS, SQL, PostgreSQL, Git
 
 ## Current everyday tools
 
-Vim, Postman, Git Bash
+Vim, Postman
 
 ## 📫 How to reach me: ...
 
 - Linkedin: https://www.linkedin.com/in/juan-ignacio-hotz/
 
-- Twitter: https://twitter.com/NachoHotz
-
 - E-Mail: juanhotz611@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NachoHotz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=stars,issues&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NachoHotz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=stars,issues&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NachoHotz&layout=compact&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
