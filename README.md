@@ -10,13 +10,13 @@
     My main goal is to build apps and websites that can change the world for the better, and keep learing new tecnologies.
 </p>
     
-#### 🌱 I’m currently learning TypeScript and Mongodb 
+#### 🌱 I’m currently learning Mongodb 
 
 #### 🔭 I’m currently working on La Montañés e-commerce (Argentinian craft beer business)
 
 ## Current technologies that I work with
 
-HTML, CSS, Less, JavaScript, C, ReactJS, Redux, NodeJS, ExpressJS, SQL, PostgreSQL, Git
+HTML, CSS, JavaScript, TypeScript, C, C++, ReactJS, Redux, NodeJS, ExpressJS, SQL, PostgreSQL, Git.
 
 ## Current everyday tools
 
