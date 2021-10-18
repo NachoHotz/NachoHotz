@@ -12,8 +12,6 @@
     
 #### 🌱 I’m currently learning Mongodb 
 
-#### 🔭 I’m currently working on La Montañés e-commerce (Argentinian craft beer business)
-
 ## Current technologies that I work with
 
 HTML, CSS, JavaScript, TypeScript, ReactJS, Redux, NodeJS, ExpressJS, SQL, PostgreSQL, Git.
