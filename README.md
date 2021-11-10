@@ -7,11 +7,9 @@
 </p>
     
 <p align=center> 
-    My main goal is to build apps and websites that can change the world for the better, and keep learing new tecnologies.
+    My main goal is to build apps and websites that can change the world for the better, and keep learning new technologies.
 </p>
     
-#### 🌱 I’m currently learning Mongodb 
-
 ## Current technologies that I work with
 
 HTML, CSS, JavaScript, TypeScript, ReactJS, Redux, NodeJS, ExpressJS, SQL, PostgreSQL, Git.
@@ -25,6 +23,10 @@ Neovim, Postman
 - Linkedin: https://www.linkedin.com/in/juan-ignacio-hotz/
 
 - E-Mail: juanhotz611@gmail.com
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: I play the guitar to distress and relax. I love to play Heavy Metal. My favourite band is Rammstein.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NachoHotz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=stars,issues&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
