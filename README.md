@@ -12,7 +12,7 @@
     
 ## Current technologies that I work with
 
-HTML, CSS, JavaScript, TypeScript, ReactJS, Redux, NodeJS, ExpressJS, SQL, PostgreSQL, Git.
+HTML, CSS, JavaScript, TypeScript, ReactJS, Redux, NodeJS, ExpressJS, NestJS, SQL, PostgreSQL, MySQL, Git.
 
 ## Current everyday tools
 
