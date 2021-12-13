@@ -9,10 +9,12 @@
 <p align=center> 
     My main goal is to build apps and websites that can change the world for the better, and keep learning new technologies.
 </p>
+
+- 🌱 I’m currently learning MongoDB
     
 ## Current technologies that I work with
 
-HTML, CSS, JavaScript, TypeScript, ReactJS, Redux, NodeJS, ExpressJS, NestJS, SQL, PostgreSQL, MySQL, MongoDB, Git.
+HTML, CSS, JavaScript, TypeScript, ReactJS, Redux, NodeJS, ExpressJS, NestJS, SQL, PostgreSQL, MySQL, Git.
 
 ## Current everyday tools
 
