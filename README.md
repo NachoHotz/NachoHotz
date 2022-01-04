@@ -18,7 +18,7 @@ HTML, CSS, JavaScript, TypeScript, ReactJS, Redux, NodeJS, ExpressJS, NestJS, SQ
 
 ## Current everyday tools
 
-Neovim, Insomnia, Arctype
+Neovim, Insomnia
 
 ## 📫 How to reach me: ...
 
