@@ -10,7 +10,7 @@
     My main goal is to build apps and websites that can change the world for the better, and keep learning new technologies.
 </p>
 
-- 🌱 I’m currently learning AWS and GOLANG
+- 🌱 I’m currently learning AWS, Go, and Rust
     
 ## Current technologies that I work with
 
