@@ -30,7 +30,7 @@ Neovim, Postman, Visual Studio Code, Git.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NachoHotz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=stars,issues&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NachoHotz&layout=default&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NachoHotz&layout=compact&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Other info:
 
