@@ -93,4 +93,6 @@ My main goal is to build apps and websites that can change the world for the bet
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=NachoHotz&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
+<a href="http://www.github.com/NachoHotz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NachoHotz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoHotz&hide_border=true&layout=compact" align="left" />  
