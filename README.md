@@ -1,17 +1,16 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />
 </div>  
   
 
 ### <div align="center">I'm Nacho, a full-time full-stack developer. but more inclined into the Back-end.</div>
 
-
- <div align="center">My main goal is to build apps and websites that can change the world for the better, and keep learning new technologies.</div>  
+<div align="center">My main goal is to build apps and websites that can change the world for the better, and keep learning new technologies.</div>  
 
 <br />
 
 <div align="center">
-<a href="https://www.twitter.com/NachoHotz" target="_blank" rel="noreferrer"><img
+ <a href="https://www.twitter.com/NachoHotz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/NachoHotz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/NachoHotz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -20,10 +19,8 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 <br />
   
 - 🌱 I’m currently learning AWS and Golang  
-  
 
 - ❓ Ask me about anything related to MERN or PERN stack and related technologies  
-  
 
 - ⚡ Fun fact: I use spaces over tabs  
 
@@ -83,6 +80,8 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 
 
 ## Connect with me  
+
+
 <div align="center">
 <a href="https://github.com/NachoHotz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
