@@ -3,9 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Nacho, a full-time full-stack developer. but more inclined into the Back-end.
+### <div align="center">I'm Nacho, a full-time full-stack developer. but more inclined into the Back-end.</div>
 
-My main goal is to build apps and websites that can change the world for the better, and keep learning new technologies.</div>  
+
+ <div align="center">My main goal is to build apps and websites that can change the world for the better, and keep learning new technologies.</div>  
 
 <br />
 
