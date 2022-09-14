@@ -6,8 +6,18 @@
 ### <div align="center">I'm Nacho, a full-time full-stack developer. but more inclined into the Back-end.
 
 My main goal is to build apps and websites that can change the world for the better, and keep learning new technologies.</div>  
-  
 
+<br />
+
+<div align="center">
+<a href="https://www.twitter.com/NachoHotz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/NachoHotz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/NachoHotz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</div>
+
+<br />
+  
 - 🌱 I’m currently learning AWS and Golang  
   
 
@@ -15,7 +25,6 @@ My main goal is to build apps and websites that can change the world for the bet
   
 
 - ⚡ Fun fact: I use spaces over tabs  
-  
 
 <br/>  
 
