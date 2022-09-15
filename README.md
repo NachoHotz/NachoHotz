@@ -100,7 +100,11 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=NachoHotz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoHotz&hide_border=true&layout=compact&theme=tokyonight" align="left" />
+
 
 
 <a href="http://www.github.com/NachoHotz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NachoHotz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoHotz&hide_border=true&layout=compact&theme=tokyonight" align="left" />
