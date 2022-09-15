@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 
 <br />
   
-- 🌱 I’m currently learning AWS and Golang  
+- 🌱 I’m currently learning AWS, Golang and Rust
 
 - ❓ Ask me about anything related to MERN or PERN stack and related technologies  
 
