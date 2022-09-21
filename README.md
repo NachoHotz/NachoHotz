@@ -194,22 +194,23 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 
 ## Connect with me  
 
-<div>
+
+<div align="center">
   
 <a href="mailto:juanhotz611@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 
 <a href="https://twitter.com/NachoHotz" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://linkedin.com/in/Juan-Ignacio-Hotz" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://instagram.com/nacho_hotz99" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 </div>  
@@ -218,6 +219,8 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=NachoHotz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" />
+
+
 
 
 
