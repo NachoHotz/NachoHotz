@@ -32,17 +32,86 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 #### Languages
 <div>  
 
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
+<a href="https://javascript.com" target="_blank">
+<img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E alt=javascript style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white alt=typescript style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://go.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white alt=golang style="margin-bottom: 5px;" />
+</a>
+
 </div>
  
 ### Frontend  
-<div>  
-  
-![image](https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) 
+<div>
+
+<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">
+<img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white alt=html style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank">
+<img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white alt=css style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://reactjs.org/" target="_blank">
+<img src=https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642 alt=react style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://redux.js.org/" target="_blank">
+<img src=https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white alt=redux style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white alt=tailwindcss style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://vitejs.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E alt=vitejs style="margin-bottom: 5px;" />
+</a>
+
 </div>
 
 ### Backend  
-<div>    
+<div>  
+
+<a href="https://vitejs.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E alt=vitejs style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://vitejs.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E alt=vitejs style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://vitejs.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E alt=vitejs style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://vitejs.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E alt=vitejs style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://vitejs.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E alt=vitejs style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://vitejs.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E alt=vitejs style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://vitejs.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E alt=vitejs style="margin-bottom: 5px;" />
+</a>
+<a href="https://vitejs.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E alt=vitejs style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://vitejs.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E alt=vitejs style="margin-bottom: 5px;" />
+</a>
   
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![image](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![image](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 </div>
@@ -77,7 +146,11 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 
 <a href="https://instagram.com/nacho_hotz99" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
+
+<a href="https://instagram.com/nacho_hotz99" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
 </div>  
   
 <br/>  
