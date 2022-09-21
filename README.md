@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 
 ## My Skill Set && Tools
   
-#### Languages
+### Languages
 <div>  
 
 <a href="https://javascript.com" target="_blank">
@@ -153,7 +153,7 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
   
 </div>
 
-#### Tools
+### Tools
 <div>
 
 <a href="https://neovim.io/" target="_blank">
