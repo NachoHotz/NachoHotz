@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set && Tools
   
 #### Languages
 <div>  
