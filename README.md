@@ -58,7 +58,7 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
-  <img src=https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642 alt=react style="margin-bottom: 5px;" />
+  <img src=https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642 alt=react style="margin-bottom: https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-us&gl=us5px;" />
 </a>
 
 <a href="https://redux.js.org/" target="_blank">
@@ -195,6 +195,10 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 ## Connect with me  
 
 <div>
+  
+<a href="mailto:juanhotz611@gmail.com" target="_blank">
+  <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
 
 <a href="https://twitter.com/NachoHotz" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -207,10 +211,6 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 <a href="https://instagram.com/nacho_hotz99" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-
-<a href="mailto:juanhotz611@gmail.com" target="_blank">
-  <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
 
 </div>  
   
