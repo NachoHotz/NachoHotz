@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nacho, a full-time full-stack developer. but more inclined into the Back-end.</div>
+### <div align="center">I'm Nacho, a Full-Stack web developer. but more inclined into the Back-end side of things.</div>
 
 <div align="center">My main goal is to build apps and websites that can change the world for the better, and keep learning new technologies.</div>  
 
@@ -190,10 +190,22 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
   
 </div>
 
+### OS
+<div>
+
+<a href="https://www.microsoft.com/en-us/windows/" target="_blank">
+  <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white alt=windows style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://getfedora.org/" target="_blank">
+  <img src=https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white alt=fedora style="margin-bottom: 5px;" />
+</a>
+
+</div>
+
 <br/>  
 
-## Connect with me  
-
+## Let's talk!  
 
 <div align="center">
   
