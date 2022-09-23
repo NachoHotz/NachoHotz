@@ -131,12 +131,20 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
   <img src=https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white alt=google-cloud style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://www.heroku.com/" target="_blank">
+  <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white alt=heroku style="margin-bottom: 5px;" />
+</a>
+
 <a href="https://railway.app/" target="_blank">
   <img src=https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white alt=railway style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://vercel.com/" target="_blank">
   <img src=https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white alt=vercel style="margin-bottom: 5px;" />
+</a>
+
+<a href="" target="_blank">
+  <img src=https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white alt=twilio style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.sonarsource.com/products/sonarcloud/" target="_blank">
@@ -151,10 +159,6 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
   <img src=https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white alt=docker style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-  <img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black alt=linux style="margin-bottom: 5px;" />
-</a>
-  
 </div>
 
 ### Tools
