@@ -143,7 +143,7 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
   <img src=https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white alt=vercel style="margin-bottom: 5px;" />
 </a>
 
-<a href="" target="_blank">
+<a href="https://www.twilio.com/" target="_blank">
   <img src=https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white alt=twilio style="margin-bottom: 5px;" />
 </a>
 
