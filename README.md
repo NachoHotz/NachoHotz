@@ -127,10 +127,6 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
   <img src=https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white alt=google-cloud style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.heroku.com/" target="_blank">
-  <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white alt=heroku style="margin-bottom: 5px;" />
-</a>
-
 <a href="https://railway.app/" target="_blank">
   <img src=https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white alt=railway style="margin-bottom: 5px;" />
 </a>
