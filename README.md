@@ -164,10 +164,6 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
   <img src=https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white alt=neovim style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white alt=visual-studio-code style="margin-bottom: 5px;" />
-</a>
-
 <a href="https://www.npmjs.com/" target="_blank">
   <img src=https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white alt=npm style="margin-bottom: 5px;" />
 </a>
