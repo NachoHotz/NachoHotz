@@ -17,6 +17,8 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 </div>
 
 <br />
+
+- 🔭 I’m currently working on Banco Comafi, as well as on my portfolio, and an inventory managment system whenever I can
   
 - 🌱 I’m currently learning Golang and Rust
 
