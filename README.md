@@ -228,7 +228,8 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
   
 <br/>  
 
-## Github Stats  
+## Github Stats
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NachoHotz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" />
 
 
@@ -240,3 +241,5 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 
 <p>Visitor Count</p>
 <img src="https://profile-counter.glitch.me/nachohotz/count.svg" />
+  
+</div>
