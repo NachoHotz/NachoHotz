@@ -240,8 +240,7 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoHotz&hide_border=true&layout=compact&theme=tokyonight" align="left" />
 
-<div align="center">
+<div>
   <p>Visitor Count</p>
-  <br/>
   <img src="https://profile-counter.glitch.me/nachohotz/count.svg" />
 </div>
