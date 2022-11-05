@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 
 - 🔭 I’m currently working on [Banco Comafi](https://www.comafi.com.ar/), as well as on my portfolio, and an inventory managment system whenever I can
   
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Golang
 
 - ❓ Ask me about anything related to MERN or PERN stack and related technologies  
 
