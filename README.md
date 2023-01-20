@@ -75,6 +75,11 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 <a href="https://tailwindcss.com/" target="_blank">
   <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white alt=tailwindcss style="margin-bottom: 5px;" />
 </a>
+  
+<a href="https://mui.com/" target="_blank">
+  <img src=https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white alt=materialui style="margin-bottom: 5px;" />
+</a>
+
 
 <a href="https://vitejs.dev/" target="_blank">
   <img src=https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E alt=vitejs style="margin-bottom: 5px;" />
@@ -107,6 +112,10 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 
 <a href="https://www.mongodb.com/" target="_blank">
   <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white alt=mongodb style="margin-bottom: 5px;" />
+</a>
+  
+<a href="https://aws.amazon.com/dynamodb/" target="_blank">
+  <img src=https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white alt=dynamodb style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.prisma.io/" target="_blank">
