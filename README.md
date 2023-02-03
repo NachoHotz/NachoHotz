@@ -98,7 +98,7 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
   <img src=https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white alt=expressjs style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://docs.nestjs.com/" target="_blank">
+<a href="https://nestjs.com/" target="_blank">
   <img src=https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white alt=nestjs style="margin-bottom: 5px;" />
 </a>
 
