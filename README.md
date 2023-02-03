@@ -208,6 +208,11 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank">
   <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white alt=windows style="margin-bottom: 5px;" />
 </a>
+  
+<a href="https://ubuntu.com/" target="_blank" rel="noopener noreferrer">
+  <img src= https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white alt=ubuntu style="margin-bottom: 5px;" />
+</a>
+  
 
 <a href="https://getfedora.org/" target="_blank">
   <img src=https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white alt=fedora style="margin-bottom: 5px;" />
