@@ -19,9 +19,7 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 
 <br />
 
-- 🔭 I’m currently working at [Banco Comafi](https://www.comafi.com.ar/), as well as on my portfolio, and an inventory managment system whenever I can
-  
-- 🌱 I’m currently learning Golang
+- 🔭 I’m currently working at [Banco Comafi](https://www.comafi.com.ar/)
 
 - ❓ Ask me about anything related to MERN or PERN stack and related technologies  
 
