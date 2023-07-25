@@ -40,10 +40,6 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white alt=typescript style="margin-bottom: 5px;" />
 </a>
-  
-<a href="https://go.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang" style="margin-bottom: 5px;" />
-</a>
 
 </div>
  
