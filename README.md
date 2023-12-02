@@ -120,10 +120,6 @@ src="https://img.shields.io/github/followers/NachoHotz?logo=github&style=for-the
   <img src=https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white alt=sequelize style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://graphql.org/" target="_blank">
-  <img src=https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white alt=graphql style="margin-bottom: 5px;" />
-</a>
-
 </div>
 
 ### DevOps && Cloud
